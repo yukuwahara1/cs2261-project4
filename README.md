@@ -1,5 +1,5 @@
 # cs2261-project4
-pet profiling system and health checking service
+Pet profiling system and health checking service
 
 The forth project for Objected-Oriented Programming (Java) was making a
 service that asks a user number of dog owners, their names, and their dog's 
